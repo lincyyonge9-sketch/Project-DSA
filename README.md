@@ -1,4 +1,4 @@
-📊 Loan Default Prediction — Data Science Project
+📊 Loan Default Prediction :Data Science Project
 
 This project aims to develop a machine learning model capable of predicting whether a loan applicant is likely to default. By analysing borrower characteristics, historical loan behavior, and financial attributes, the model assists lenders in reducing financial risk through data-driven decision making.
 
