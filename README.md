@@ -4,6 +4,7 @@ This project aims to develop a machine learning model capable of predicting whet
 
 🔍 Project Overview
 
+
 Financial institutions face significant challenges when assessing loan applications due to the possibility of default. This project applies data exploration, feature engineering, and machine learning classification to build a predictive loan default model.
 
 Key goals:
