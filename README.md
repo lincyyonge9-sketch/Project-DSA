@@ -7,7 +7,7 @@ This project aims to develop a machine learning model capable of predicting whet
 
 Financial institutions face significant challenges when assessing loan applications due to the possibility of default. This project applies data exploration, feature engineering, and also machine learning classification to build a predictive loan default model.
 
-Key goals:
+KEY GOALS:
 Understand and explore financial lending data.
 
 Identify patterns and risk factors that contribute to loan default.
